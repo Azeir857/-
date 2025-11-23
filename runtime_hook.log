@@ -1,0 +1,27 @@
+[HOOK] Runtime hook started
+[HOOK] Executable path: D:\pro\scr\NetworkMonitor\dist\NetworkMonitor\NetworkMonitor.exe
+[HOOK] Current sys.path: ['D:\\pro\\scr\\NetworkMonitor\\dist', 'D:\\pro\\scr\\NetworkMonitor\\dist\\NetworkMonitor', 'D:\\pro\\scr\\NetworkMonitor\\dist\\NetworkMonitor\\_internal\\base_library.zip', 'D:\\pro\\scr\\NetworkMonitor\\dist\\NetworkMonitor\\_internal\\python3.13\\lib-dynload', 'D:\\pro\\scr\\NetworkMonitor\\dist\\NetworkMonitor\\_internal', 'D:\\pro\\scr\\NetworkMonitor\\dist\\NetworkMonitor\\_internal\\win32', 'D:\\pro\\scr\\NetworkMonitor\\dist\\NetworkMonitor\\_internal\\pywin32_system32']
+[HOOK] Successfully imported PyQt5.uic.port_v2
+[HOOK] Setting up core modules
+[HOOK] Checking path: D:\pro\scr\NetworkMonitor\dist\NetworkMonitor
+[HOOK] Checking path: D:\pro\scr\NetworkMonitor\dist
+[HOOK] Checking path: D:\pro\scr\NetworkMonitor\dist\NetworkMonitor\core
+[HOOK] Checking path: D:\pro\scr\NetworkMonitor\dist\NetworkMonitor\src\core
+[HOOK] Checking path: D:\pro\scr\NetworkMonitor\dist\src\core
+[HOOK] Checking path: D:\pro\scr\NetworkMonitor\dist\NetworkMonitor\_internal\core
+[HOOK] Created core package module
+[HOOK] Performing recursive search for network_info.py
+[HOOK] Found network_info.py at: D:\pro\scr\NetworkMonitor\dist\NetworkMonitor\_internal\core\core\network_info.py
+[HOOK] Attempting to load module core.network_info from D:\pro\scr\NetworkMonitor\dist\NetworkMonitor\_internal\core\core\network_info.py
+[HOOK] Successfully loaded module core.network_info
+[HOOK] Added class NetworkInfo to core module
+[HOOK] Performing recursive search for connection_monitor.py
+[HOOK] Found connection_monitor.py at: D:\pro\scr\NetworkMonitor\dist\NetworkMonitor\_internal\core\core\connection_monitor.py
+[HOOK] Attempting to load module core.connection_monitor from D:\pro\scr\NetworkMonitor\dist\NetworkMonitor\_internal\core\core\connection_monitor.py
+[HOOK] Successfully loaded module core.connection_monitor
+[HOOK] Added class ConnectionMonitor to core module
+[HOOK] Added class Lock to core module
+[HOOK] Added class datetime to core module
+[HOOK] Core module setup complete. NetworkInfo: True, ConnectionMonitor: True
+[HOOK] Core module setup result: True
+[HOOK] Runtime hook finished
